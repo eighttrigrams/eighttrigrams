@@ -1,3 +1,4 @@
 ![front](front5.png)
 
-`GOTO` [github.com/danielmarreirosdeoliveira](https://github.com/danielmarreirosdeoliveira) `REM OLD PROFILE`
+`010 REM OLD PROFILE:`
+`020 GOTO` [github.com/danielmarreirosdeoliveira](https://github.com/danielmarreirosdeoliveira) 
